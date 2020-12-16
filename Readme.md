@@ -7,6 +7,7 @@ Build image:
 ```
 docker build -t udemy-dl -f ./Dockerfile .
 ```
+o use script build.sh
 
 Use:
 
